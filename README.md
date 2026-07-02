@@ -30,6 +30,9 @@ A **Software Engineering undergraduate** from **Sri Lanka** with a strong passio
   <a href="https://www.youtube.com/@d3nuw4n" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" height="35"/>
   </a>
+  <a href="https://steamcommunity.com/id/d3nuw4n" target="_blank">
+  <img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="35"/>
+</a>
   <a href="mailto:chathuradenuwan9@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="35"/>
   </a>
