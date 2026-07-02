@@ -1,5 +1,5 @@
 <!-- Right-aligned vertical profile artwork -->
-<img src="./image_7e0a56.jpg" align="right" width="38%" alt="Denuwannnnnnnn" style="border-radius: 4px; margin-left: 20px; margin-bottom: 20px;" />
+<img src=".//a6f44f9fe7710a003cd26525b84a2e2b_cspa1r5e878c73e8ogl0_image.png" align="right" width="38%" alt="Denuwannnnnnnn" style="border-radius: 4px; margin-left: 20px; margin-bottom: 20px;" />
 
 # I'm Chathura Denuwan 🧊
 
