@@ -1,45 +1,45 @@
-<h2 data-importer="text" align="left">I'm Chathura Denuwan and I'm from Kalutara, Sri Lanka.</h2>
+<!-- Right-aligned vertical profile artwork -->
+<img src="./image_7e0a56.jpg" align="right" width="38%" alt="Denuwannnnnnnn" style="border-radius: 4px; margin-left: 20px; margin-bottom: 20px;" />
 
-###
+# I'm Chathura Denuwan 🧊
 
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/daxNnlh9q3AAAAAC/king-king-baldwin.gif"  />
+A **Software Engineering undergraduate** from **Sri Lanka** with a strong passion for building smooth, modern, and user-friendly digital experiences. I enjoy exploring new technologies, improving my development skills, and creating solutions that are both functional and visually engaging.
 
-###
+### │ What I Do ?
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+* 💻 Build responsive web and mobile applications with clean UI and smooth user experience.
+* ⚙️ Work across frontend and backend development using modern tools and frameworks.
+* 🚀 Learn, create, and share innovative ideas through software, design, and technology.
 
-###
+### │ Tech Stack
 
-<div data-importer="socials" align="left">
-  <a href="https://www.youtube.com/@d3nuw4n" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/d3nuw4nn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/3noxval" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="3noxlol" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+* **Frontend:** React, Vue, Next.js, Tailwind CSS, Vite
+* **Backend:** Node.js, Express.js
+* **Databases:** MySQL, MongoDB, SQLite
+* **Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
+* **Tools:** Docker, Figma, Git, VS Code
+
+### │ Connect with Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/d3nuw4n/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height="35"/>
   </a>
-</div>
+  <a href="https://github.com/D3NUW4NXD" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.youtube.com/@d3nuw4n" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:chathuradenuwan9@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="35"/>
+  </a>
+</p>
 
-###
+### │ Support
+
+<a href="https://www.buymeacoffee.com/chathuradei" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FF8A65?style=for-the-badge&logo=buymeacoffee&logoColor=white" height="40"/>
+</a>
+
+<br clear="right"/>
